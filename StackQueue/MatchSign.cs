@@ -57,6 +57,9 @@ namespace CSharpAlgorithm.StackQueue
 
             const string testStr1 = "[(]}";
             Expect.Expect1("TestMatchSign",MatchSignIsValid, testStr1, false);
+
+            const string testStr2 = "[{[()]}]";
+            Expect.Expect1("TestMatchSign",MatchSignIsValid, testStr2, true);
         }
 
     }

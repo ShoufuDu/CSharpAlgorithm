@@ -13,7 +13,7 @@ namespace CSharpAlgorithm.MyArray
             var hs = new Dictionary<int, int>();
 
             int index = 0;
-          
+
             for (int i = 0; i < a.Length; i++)
             {
                 int v;
@@ -50,7 +50,7 @@ namespace CSharpAlgorithm.MyArray
             }
 
             int j = Array.IndexOf(a,1);
-           
+
         }
     }
 }
