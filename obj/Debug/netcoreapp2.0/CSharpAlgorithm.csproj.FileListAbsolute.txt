@@ -1,0 +1,11 @@
+/Users/dusf/Documents/algorithm/CSharpAlgorithm/bin/Debug/netcoreapp2.0/CSharpAlgorithm.deps.json
+/Users/dusf/Documents/algorithm/CSharpAlgorithm/bin/Debug/netcoreapp2.0/CSharpAlgorithm.runtimeconfig.json
+/Users/dusf/Documents/algorithm/CSharpAlgorithm/bin/Debug/netcoreapp2.0/CSharpAlgorithm.runtimeconfig.dev.json
+/Users/dusf/Documents/algorithm/CSharpAlgorithm/bin/Debug/netcoreapp2.0/CSharpAlgorithm.dll
+/Users/dusf/Documents/algorithm/CSharpAlgorithm/bin/Debug/netcoreapp2.0/CSharpAlgorithm.pdb
+/Users/dusf/Documents/algorithm/CSharpAlgorithm/obj/Debug/netcoreapp2.0/CSharpAlgorithm.csproj.CoreCompileInputs.cache
+/Users/dusf/Documents/algorithm/CSharpAlgorithm/obj/Debug/netcoreapp2.0/CSharpAlgorithm.AssemblyInfoInputs.cache
+/Users/dusf/Documents/algorithm/CSharpAlgorithm/obj/Debug/netcoreapp2.0/CSharpAlgorithm.AssemblyInfo.cs
+/Users/dusf/Documents/algorithm/CSharpAlgorithm/obj/Debug/netcoreapp2.0/CSharpAlgorithm.dll
+/Users/dusf/Documents/algorithm/CSharpAlgorithm/obj/Debug/netcoreapp2.0/CSharpAlgorithm.pdb
+/Users/dusf/Documents/algorithm/CSharpAlgorithm/obj/Debug/netcoreapp2.0/CSharpAlgorithm.csprojAssemblyReference.cache

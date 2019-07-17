@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{38957858-0509-4915-85B0-ECBD34DD8D4C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Array/RemoveDuplicatFromUnorder.cs" Line="27" Column="18" />
+      <File FileName="String/TestString.cs" Line="37" Column="47" />
+      <File FileName="Program.cs" Line="160" Column="36" />
+      <File FileName="Array/SearchInRotatedSorted.cs" Line="14" Column="1" />
+      <File FileName="Array/RemoveFromSorted.cs" Line="38" Column="1" />
+      <File FileName="Util/Expect.cs" Line="21" Column="24" />
+      <File FileName="Sort/QuickSort.cs" Line="2" Column="33" />
+      <File FileName="../Algorithm_cpp/package-lock.json" Line="17" Column="1" />
+      <File FileName="GreedySeek/JumpGame.cs" Line="1" Column="1" />
+      <File FileName="DynamicPlanning/ColorBlocks.cs" Line="15" Column="17" />
+      <File FileName="DynamicPlanning/CrossBridge.cs" Line="1" Column="1" />
+      <File FileName="SList/Add2Num.cs" Line="1" Column="1" />
+      <File FileName="test.c" Line="1" Column="1" />
+      <File FileName="Else/ArrayRandom.cs" Line="15" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpAlgorithm" expanded="True">
+            <Node name="CSharpAlgorithm" expanded="True">
+              <Node name="Array" expanded="True" />
+              <Node name="DynamicPlanning" expanded="True" />
+              <Node name="Else" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CSharpAlgorithm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DynamicPlanning\" />
+    <Folder Include="Util\" />
+    <Folder Include="GreedySeek\" />
+    <Folder Include="Array\" />
+    <Folder Include="SList\" />
+    <Folder Include="Sort\" />
+  </ItemGroup>
+</Project>
