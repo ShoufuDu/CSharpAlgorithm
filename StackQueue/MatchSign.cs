@@ -5,8 +5,9 @@ namespace CSharpAlgorithm.StackQueue {
 
     // Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
     // The brackets must close in the correct order, "()" and "()[]" are all valid but "(]" and "([)]" are not.
-    public class StackQueueSolution {
-        public static Dictionary<char, char> signs = new Dictionary<char, char> { { '(', ')' },
+    public partial class StackQueueSolution {
+
+        public static readonly Dictionary<char, char> signs = new Dictionary<char, char> { { '(', ')' },
             { '[', ']' },
             { '{', '}' }
         };
@@ -54,6 +55,5 @@ namespace CSharpAlgorithm.StackQueue {
             const string testStr3 = "[{[()]}]";
             Expect.Expect1 ("TestMatchSign", MatchSignIsValid, testStr3, true);
         }
-
     }
 }
