@@ -155,6 +155,8 @@ namespace CSharpAlgorithm
 
             StackQueueSolution.TestMatchSign();
 
+            StackQueueSolution.Test_LongMatchSign_1();
+
             Console.Read();
         }
 
