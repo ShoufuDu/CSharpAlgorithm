@@ -65,6 +65,30 @@ namespace CSharpAlgorithm.StackQueue {
                 Expect.Expect1("Test LongMatchSign_1",LongMatchSign_1,s1,8);
 
                 Expect.Expect1("Test LongMatchSign_2",LongMatchSign_2,s1,8);
+
+                s1 = "()";
+
+                Expect.Expect1("Test LongMatchSign_1",LongMatchSign_1,s1,2);
+
+                Expect.Expect1("Test LongMatchSign_2",LongMatchSign_2,s1,2);
+
+                s1 = ")";
+
+                Expect.Expect1("Test LongMatchSign_1",LongMatchSign_1,s1,0);
+
+                Expect.Expect1("Test LongMatchSign_2",LongMatchSign_2,s1,0);
+
+                s1 = "(";
+
+                Expect.Expect1("Test LongMatchSign_1",LongMatchSign_1,s1,0);
+
+                Expect.Expect1("Test LongMatchSign_2",LongMatchSign_2,s1,0);
+
+                s1 = "((((())";
+
+                Expect.Expect1("Test LongMatchSign_1",LongMatchSign_1,s1,4);
+
+                Expect.Expect1("Test LongMatchSign_2",LongMatchSign_2,s1,4);
             }
         }
 }
