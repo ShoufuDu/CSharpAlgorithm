@@ -50,7 +50,7 @@ namespace CSharpAlgorithm.StackQueue {
             return maxLen;
         }
 
-        // f[i] refer to max match lengthe of the subsequence beging from index i;
+        // f[i] refer to max match length of the subsequence beging from index i to the end of s;
         // f[len-1]===0
         //  0                         i i+1     f[i+1]            match          len-1
         //  |                         |  |-----------------------|  |              |
